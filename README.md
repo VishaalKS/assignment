@@ -1,0 +1,8 @@
+- We use JWT (JSON Web Token) for user login authentication.
+- The JWT token is stored in a cookie.
+- Products are added to the cart using AJAX.
+- DataTables are utilized for search functionality.
+- Cookies are used to store cart items.
+- MySQL is the database used.
+- A middleware is implemented to check the presence of the JWT cookie for authentication.
+- Form validation is performed using both backend Laravel validation and frontend validation methods.
